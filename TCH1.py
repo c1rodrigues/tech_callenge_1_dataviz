@@ -274,7 +274,7 @@ with tab3:
     Além disso, no acumulado dos 15 anos analisádos podemos observar crescimento de 31,45%! 
     '''
 
-    Tratando dados dolar
+    #Tratando dados dolar
     Dolar = pd.read_csv('Dolar.csv',  encoding ='ISO-8859-1',sep = ',')
 
     st.write('#Cotação média dos últimos 15 anos')
