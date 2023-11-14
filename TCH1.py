@@ -4,7 +4,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 
 # Títulos
-st.write("# Tech-Challenge Expostação de Vinhos e Storytelling")
+st.write("# Tech-Challenge Exportação de Vinhos e Storytelling")
 
 # importando dados
 df_producao = pd.read_csv('ExpVinho22-Producao.csv', sep=';')
